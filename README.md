@@ -1,11 +1,4 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ppmikaelbarbosa&color=blue" alt="Profile views">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-</p>
-
-<p align="center">
   <a href="https://github.com/MikaelBarbosa1">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Ol%C3%A1%2C%20sou%20Mikael!" alt="Olá, sou Mikael!" />
   </a>
